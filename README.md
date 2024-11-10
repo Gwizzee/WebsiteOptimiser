@@ -46,6 +46,12 @@ Minification: uglifyjs is used to minify JavaScript, and csso is used to minify 
 Concatenation: The cat command combines the files.
 Automation: onchange monitors the files and triggers re-minification upon any changes.
 
+Contributing:
+
+Contributions are welcome! Feel free to add features or pull requests.
+
+License:
+
 This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3.0
 
 
